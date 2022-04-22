@@ -3,21 +3,33 @@
 Python 3.7 and above and has been constructed in the jupyter lab notebook named machine_learning_trading_bot.ipynb The following libraries are required:
 
 pandas - for analyzing data
-jupyter - for an IDE
-numpy - for data calculations
-hvplot - for creating plots
-matplotlib - for creating plots
-sci-kit learn - for ML model built on top of SciPy
-pathlib - for creating object oriented file modules
-Installation Guide
 
-# Before running the application first install the following dependencies:
+jupyter - for an IDE
+
+numpy - for data calculations
+
+hvplot - for creating plots
+
+matplotlib - for creating plots
+
+sci-kit learn - for ML model built on top of SciPy
+
+pathlib - for creating object oriented file modules
+
+# Installation Guide
+
+Before running the application first install the following dependencies:
 
   pip install pandas
+  
   pip install jupyterlab 
+  
   pip install numpy
+  
   pip install hvplot
+  
   pip install sci-kit learn
+  
   pip instal pathlib
 
 ![Screen Shot 2022-04-21 at 20 05 24](https://user-images.githubusercontent.com/91238235/164591205-9735fd1e-1dee-4018-985a-bd3bfacc5b6a.png)
@@ -34,7 +46,7 @@ Installation Guide
 ![Screen Shot 2022-04-21 at 20 13 50](https://user-images.githubusercontent.com/91238235/164591425-1da02eec-7229-49c3-a5c8-df733c15f874.png)
 ![Screen Shot 2022-04-21 at 20 12 05](https://user-images.githubusercontent.com/91238235/164591448-9a4efd1f-6769-42a4-a88c-5208f3853d27.png)
 ![Screen Shot 2022-04-21 at 20 12 40](https://user-images.githubusercontent.com/91238235/164591452-000ef068-80df-4f1c-ba55-ce3434a13ba9.png)
-![Screen Shot 2022-04-21 at 20 13 02](https://user-images.githubusercontent.com/91238235/164591456-1c25d123-346c-4ed7-b3b0-1d905dbf00b9.png)
+![Screen Shot 2022-04-21 at 20 40 53](https://user-images.githubusercontent.com/91238235/164591919-6ccd9fdb-d345-45df-92e6-95a92adc7f95.png)
 
 # Contributors
 
